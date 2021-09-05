@@ -1,1 +1,1 @@
-**초보자를 위한 안드로이드 기초 강좌**  #1 [안드로이드 스튜디오 설치 및 출력](https://velog.io/@limsaehyun/Android%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-1-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)에서 사용된 예제입니다.
+**초보자를 위한 안드로이드 기초 강좌**  [#1 안드로이드 스튜디오 설치 및 출력](https://velog.io/@limsaehyun/Android%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-1-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)에서 사용된 예제입니다.
